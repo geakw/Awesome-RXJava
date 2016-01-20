@@ -17,11 +17,6 @@ RXJava不错的文章合集
 
 [Learning RxJava (for Android) by example](https://www.youtube.com/watch?v=k3D0cWyNno4)  
 
-###by Ahmed Rizwan
-
-[给 Android 开发者的 RxJava 详解](http://gank.io/post/560e15be2dca930e00da1083)
-###by KAUSHIK GOPAL
-[Learning RxJava (for Android) by example](https://www.youtube.com/watch?v=k3D0cWyNno4)  
 
 ###by Ahmed Rizwan
 
